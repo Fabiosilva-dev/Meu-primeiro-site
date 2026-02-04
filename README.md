@@ -59,5 +59,5 @@ python app.py
 
 7.Abra o navegador:
 
-https://127.0.0.1:500
+https://127.0.0.1:5000
 
