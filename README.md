@@ -51,11 +51,11 @@ source venv/bin/activate
 
 5.Instale as dependencias:
 
-pip install Flask
+pip install -r requirements.txt
 
 6.Execute a aplicação:
 
-python app.py
+python run.py
 
 7.Abra o navegador:
 
